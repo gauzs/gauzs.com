@@ -1,0 +1,10 @@
+.gzs-btn {
+    border-radius: 0;
+    background-color: #eca400;
+    color: #fff;
+}
+.gzs-btn:hover {
+    background-color: #fff;
+    color: #000;
+    border: #000 solid 1px;
+}
